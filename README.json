@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-06T12:09:56Z",
+            "last_commit": "2026-02-07T19:51:21Z",
             "owner": "Codeception",
             "repo": "CodeceptJS",
-            "stars": 4217
+            "stars": 4218
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-02T16:31:55Z",
             "owner": "Sparticuz",
             "repo": "chromium",
-            "stars": 1519
+            "stars": 1520
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2025-09-03T14:42:40Z",
             "owner": "ruifigueira",
             "repo": "playwright-crx",
-            "stars": 569
+            "stars": 570
           }
         },
         {
@@ -114,7 +114,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T18:43:43Z",
+            "last_commit": "2026-02-08T00:29:17Z",
             "owner": "Tallyb",
             "repo": "cucumber-playwright",
             "stars": 425
@@ -200,7 +200,7 @@
             "last_commit": "2026-01-30T14:35:38Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14234
+            "stars": 14238
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-02-03T02:47:49Z",
             "owner": "microsoft",
             "repo": "playwright-dotnet",
-            "stars": 2875
+            "stars": 2876
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-01-16T22:07:04Z",
             "owner": "playwright-community",
             "repo": "playwright-go",
-            "stars": 3162
+            "stars": 3161
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-01-29T15:26:19Z",
             "owner": "playwright-community",
             "repo": "eslint-plugin-playwright",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -618,7 +618,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T12:22:33Z",
+            "last_commit": "2026-02-07T14:58:21Z",
             "owner": "ctrf-io",
             "repo": "playwright-ctrf-json-reporter",
             "stars": 95
@@ -650,10 +650,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T12:54:51Z",
+            "last_commit": "2026-02-08T02:28:34Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 181490
+            "stars": 181508
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-02-07T01:23:21Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 107714
+            "stars": 107719
           }
         },
         {
@@ -676,7 +676,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-07T00:50:41Z",
+            "last_commit": "2026-02-07T19:52:29Z",
             "owner": "elastic",
             "repo": "apm-agent-rum-js",
             "stars": 296
@@ -702,10 +702,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T20:58:20Z",
+            "last_commit": "2026-02-07T14:37:19Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 19871
+            "stars": 19874
           }
         }
       ],
@@ -718,10 +718,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:15:01.159Z",
+    "last_updated": "2026-02-08T04:29:38.865Z",
     "original_repository": "mxschmitt/awesome-playwright",
     "source_repository": "v1nvn/enhansome-playwright",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Playwright with stars"
   }
 }
