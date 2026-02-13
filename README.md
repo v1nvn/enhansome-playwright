@@ -2,7 +2,7 @@
 
 > A curated list of awesome tools, utils and projects using Playwright
 
-[Playwright](https://github.com/microsoft/playwright) ⭐ 82,487 | 🐛 583 | 🌐 TypeScript | 📅 2026-02-12 is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .NET and Java.
+[Playwright](https://github.com/microsoft/playwright) ⭐ 82,537 | 🐛 588 | 🌐 TypeScript | 📅 2026-02-13 is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .NET and Java.
 
 ## Contents
 
@@ -16,14 +16,14 @@
 
 ## Integrations
 
-* [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) ⭐ 8,891 | 🐛 480 | 🌐 JavaScript | 📅 2026-02-05 - Load testing with Playwright.
-* [CodeceptJS](https://github.com/Codeception/CodeceptJS) ⭐ 4,219 | 🐛 208 | 🌐 JavaScript | 📅 2026-02-11 - Supercharged End 2 End Testing Framework for Node.js.
-* [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) ⭐ 1,525 | 🐛 23 | 🌐 TypeScript | 📅 2026-01-02 - Prebuilt Chromium binaries for Playwright on serverless platforms.
-* [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) ⭐ 688 | 🐛 90 | 🌐 JavaScript | 📅 2026-02-11 - Official Axe integration with Playwright.
-* [playwright-bdd](https://github.com/vitalets/playwright-bdd) ⭐ 603 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-09 - BDD testing with Playwright runner and CucumberJS.
-* [Playwright CRX](https://github.com/ruifigueira/playwright-crx) ⭐ 572 | 🐛 17 | 🌐 TypeScript | 📅 2025-09-03 - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
+* [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) ⭐ 8,889 | 🐛 479 | 🌐 JavaScript | 📅 2026-02-05 - Load testing with Playwright.
+* [CodeceptJS](https://github.com/Codeception/CodeceptJS) ⭐ 4,219 | 🐛 210 | 🌐 JavaScript | 📅 2026-02-13 - Supercharged End 2 End Testing Framework for Node.js.
+* [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) ⭐ 1,526 | 🐛 23 | 🌐 TypeScript | 📅 2026-01-02 - Prebuilt Chromium binaries for Playwright on serverless platforms.
+* [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) ⭐ 690 | 🐛 90 | 🌐 JavaScript | 📅 2026-02-11 - Official Axe integration with Playwright.
+* [playwright-bdd](https://github.com/vitalets/playwright-bdd) ⭐ 605 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-09 - BDD testing with Playwright runner and CucumberJS.
+* [Playwright CRX](https://github.com/ruifigueira/playwright-crx) ⭐ 572 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-03 - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 * [playwright-pytest](https://github.com/microsoft/playwright-pytest/) ⭐ 533 | 🐛 20 | 🌐 Python | 📅 2026-02-03 - Official Pytest plugin for using Playwright pages with fixtures.
-* [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) ⭐ 426 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-10 - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
+* [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) ⭐ 426 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-12 - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 * [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) ⭐ 226 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-12 - Inofficial integration of Axe with Playwright.
 * [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-25 - VoiceOver and NVDA screen reader driver integration for Playwright.
 * [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-16 - Expect matchers to perform Axe accessibility tests in your Playwright tests.
@@ -36,11 +36,11 @@
 ## Language Support
 
 * [playwright-python](https://github.com/microsoft/playwright-python) ⭐ 14,249 | 🐛 72 | 🌐 Python | 📅 2026-02-11 - Official Playwright port to Python.
-* [playwright-go](https://github.com/playwright-community/playwright-go) ⭐ 3,175 | 🐛 73 | 🌐 Go | 📅 2026-01-16 - Playwright port for Golang.
+* [playwright-go](https://github.com/playwright-community/playwright-go) ⭐ 3,182 | 🐛 74 | 🌐 Go | 📅 2026-01-16 - Playwright port for Golang.
 * [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) ⭐ 2,880 | 🐛 75 | 🌐 C# | 📅 2026-02-03 - Official Playwright port to DOTNET.
 * [playwright-java](https://github.com/microsoft/playwright-java) ⭐ 1,443 | 🐛 48 | 🌐 Java | 📅 2026-02-01 - Official Playwright port to Java.
 * [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) ⭐ 466 | 🐛 5 | 🌐 Ruby | 📅 2026-02-01 - Playwright port for Ruby.
-* [playwright-rust](https://github.com/padamson/playwright-rust) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-01-26 - Playwright port for Rust.
+* [playwright-rust](https://github.com/padamson/playwright-rust) ⭐ 29 | 🐛 1 | 🌐 Rust | 📅 2026-01-26 - Playwright port for Rust.
 * [playwright-cr](https://github.com/naqvis/playwright-cr) ⭐ 24 | 🐛 1 | 🌐 Crystal | 📅 2021-03-24 - Playwright port for Crystal.
 * [playwright-perl](https://github.com/teodesian/playwright-perl) ⭐ 23 | 🐛 18 | 🌐 Perl | 📅 2025-10-03 - Playwright port for Perl.
 * [Playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
@@ -50,7 +50,7 @@
 * [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) ⭐ 368 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-29 - ESLint plugin for your Playwright testing needs.
 * [Moon](https://github.com/aerokube/moon) ⭐ 268 | 🐛 83 | 🌐 HTML | 📅 2025-12-17 - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 * [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) ⭐ 96 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-29 - Plugin to collect code coverage from running Playwright tests.
-* [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) ⭐ 90 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-06 - Speed up Playwright tests by caching network requests on the filesystem.
+* [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) ⭐ 91 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-06 - Speed up Playwright tests by caching network requests on the filesystem.
 * [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-11 - Auto-transform JavaScript comments into Playwright steps.
 * [@bgotink/playwright-coverage](https://github.com/bgotink/playwright-coverage) ⭐ 50 | 🐛 9 | 🌐 TypeScript | 📅 2025-03-10 - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 * [POMWright](https://github.com/DyHex/POMWright) ⭐ 50 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
@@ -69,7 +69,7 @@
 ## Reporters
 
 * [monocart-reporter](https://github.com/cenfun/monocart-reporter) ⭐ 290 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-04 - A Playwright test reporter, shows suites/cases/steps in html grid.
-* [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) ⭐ 271 | 🐛 91 | 🌐 TypeScript | 📅 2026-02-11 - Allure integration with Playwright Test framework.
+* [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) ⭐ 271 | 🐛 91 | 🌐 TypeScript | 📅 2026-02-12 - Allure integration with Playwright Test framework.
 * [testomatio-reporter](https://github.com/testomatio/reporter) ⭐ 145 | 🐛 28 | 🌐 JavaScript | 📅 2026-02-11 - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 * [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) ⭐ 137 | 🐛 6 | 🌐 TypeScript | 📅 2026-01-19 - Publish your Playwright test results to your favorite Slack channel(s).
 * [playwright-ctrf-json-reporter](https://github.com/ctrf-io/playwright-ctrf-json-reporter) ⭐ 96 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-09 - A Playwright JSON test results reporter that follows the CTRF schema.
@@ -83,10 +83,10 @@
 
 ## Showcases
 
-* [VS Code](https://github.com/microsoft/vscode) ⭐ 181,616 | 🐛 13,753 | 🌐 TypeScript | 📅 2026-02-12 - Playwright is used to run cross-browser tests on their web builds.
-* [TypeScript](https://github.com/microsoft/TypeScript) ⭐ 107,779 | 🐛 5,451 | 🌐 TypeScript | 📅 2026-02-11 - Playwright is used test TypeScript.js across browsers.
-* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 19,901 | 🐛 124 | 🌐 TypeScript | 📅 2026-02-11 - Playwright is used to run cross-browser integration tests.
-* [Blockstack](https://github.com/blockstack/ux) ⭐ 333 | 🐛 397 | 🌐 TypeScript | 📅 2026-02-11 - Playwright is used to run cross-browser UI tests.
+* [VS Code](https://github.com/microsoft/vscode) ⭐ 181,653 | 🐛 13,828 | 🌐 TypeScript | 📅 2026-02-13 - Playwright is used to run cross-browser tests on their web builds.
+* [TypeScript](https://github.com/microsoft/TypeScript) ⭐ 107,808 | 🐛 5,454 | 🌐 TypeScript | 📅 2026-02-11 - Playwright is used test TypeScript.js across browsers.
+* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 19,911 | 🐛 125 | 🌐 TypeScript | 📅 2026-02-13 - Playwright is used to run cross-browser integration tests.
+* [Blockstack](https://github.com/blockstack/ux) ⭐ 333 | 🐛 396 | 🌐 TypeScript | 📅 2026-02-11 - Playwright is used to run cross-browser UI tests.
 * [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) ⭐ 297 | 🐛 190 | 🌐 JavaScript | 📅 2026-02-11 - Playwright is used to run benchmark tests across browsers.
 * [playwright-examples](https://github.com/microsoft/playwright-examples) ⭐ 104 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-20 - Various testing scenarios with Playwright.
 
@@ -99,4 +99,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) ⭐ 1,363 | 🐛 11 | 📅 2026-01-05 first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) ⭐ 1,364 | 🐛 12 | 📅 2026-01-05 first.
